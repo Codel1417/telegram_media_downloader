@@ -1,5 +1,5 @@
 Pyrogram==2.0.106
-PyYAML==6.0
+PyYAML==6.0.1
 rich==13.4.2
 TgCrypto==1.2.5
 zc.lockfile==3.0.post1
