@@ -3,4 +3,4 @@ PyYAML==6.0.1
 rich==13.7.0
 TgCrypto==1.2.5
 zc.lockfile==3.0.post1
-python-dotenv==1.0.0
+python-dotenv==1.0.1
