@@ -1,4 +1,4 @@
-from python:3.12.2-slim
+from python:3.12.3-slim
 
 
 RUN mkdir -p /usr/app
